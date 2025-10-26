@@ -122,3 +122,4 @@ README.html
 .exercism
 /scratch
 .gradle
+out/
