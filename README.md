@@ -53,7 +53,7 @@ uma mensagem personalizada. O método é chamado no `main`.
 
 ## 🧪 Exemplo de Saída no Console
 
-'''
+```
 Questão 1:
 
 Nome: Leonel de Lima Barbosa
@@ -81,4 +81,4 @@ Olá, meu nome é Edmar Senne e leciono Programação Orientada a Objetos.
 
 Questão 5:
 
-O aluno Leonel de Lima Barbosa obteve um desempenho excelente.'''
+O aluno Leonel de Lima Barbosa obteve um desempenho excelente.
