@@ -1,4 +1,4 @@
-# 💻 Atividade de Programação Orientada a Objetos – Java
+# 💻 Atividade MAPA de Programação Orientada a Objetos – Java
 
 Este projeto foi desenvolvido como parte da disciplina de **Programação Orientada a Objetos** da faculdade **Unicesumar**. O objetivo é aplicar os principais conceitos da POO em Java, como **classe**, **objeto**, **encapsulamento**, **herança**, **polimorfismo** e **interfaces**.
 
